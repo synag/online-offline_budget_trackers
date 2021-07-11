@@ -30,7 +30,7 @@ No steps to install
 
 Below is the URL to the webpage and github repository. 
 
-Website URL: https://safe-temple-93958.herokuapp.com
+Website URL: https://intense-badlands-62758.herokuapp.com/
 
 Github repository: https://github.com/synag/online-offline_budget_trackers
 
